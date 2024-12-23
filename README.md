@@ -1,4 +1,4 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/bs21fy7stb27jvrw?svg=true)](https://ci.appveyor.com/project/yuriytuk/ajs6-1)
+[![Build status](https://ci.appveyor.com/api/projects/status/3j1b5sb1ktehc3cm?svg=true)](https://ci.appveyor.com/project/yuriytuk/ajs7-1)
 
 # 🚀 Welcome to your new awesome project!
 
